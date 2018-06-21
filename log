@@ -1,8 +1,10 @@
-- Right menu updated
-- Renamed translate to move
-- Export to script
-- Export and import fixes
-- Import selector
-- Start block coordinates
-- Fixes in move
-- Auto adding mods textures
+v 0.2
++ Added new right menu
++ Simple and more faster
++ Optimized popup menus
++ Smaller buttons height
++ Textures from mods
++ Updated import
++ Cloning box
++ Model scaler
++ Bug fixes
