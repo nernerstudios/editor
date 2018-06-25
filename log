@@ -1,32 +1,8 @@
-Alpha 0.1 (9 Jun)
- - First version
-
-Beta 0.1 (9 Jun)
- - Export to script
+Beta 0.2.1 (26 Jun) (Planned)
+ - Block information can be edited
  - Export to project fixed
- - Import selector
- - Shape fixes
- - Bug fixes
-
-Beta 0.1.1 (10 Jun)
- - New format for show pixels
- - Fixed undefined category
- - Import from script
- - Move box
- - Start on tap
- - Bug fixes
-
-Beta 0.1.2 (10 Jun)
- - Russian translate
- - Start in menu
- - Bug fixes
-
-Beta 0.1.3 (11 Jun)
- - Categories for export and import
- - Confirmation if save on exit failed
- - Tap worked only on custom block
- - New catches for get information
- - English translate
+ - Updated some textures
+ - Menu can be closed
  - Bug fixes
 
 Beta 0.2 (25 Jun)
@@ -44,9 +20,33 @@ Beta 0.2 (25 Jun)
  - Cloning box
  - Bug fixes
 
-Beta 0.2.1 (26 Jun) (Planned)
- - Block information can be edited
- - Export to project fixed
- - Updated some textures
- - Menu can be closed
+Beta 0.1.3 (11 Jun)
+ - Categories for export and import
+ - Confirmation if save on exit failed
+ - Tap worked only on custom block
+ - New catches for get errors
+ - English translate
  - Bug fixes
+
+Beta 0.1.2 (10 Jun)
+ - Interface show in menu
+ - Russian translate
+ - Bug fixes
+
+Beta 0.1.1 (10 Jun)
+ - New format for show pixels
+ - Fixed undefined category
+ - Import from script
+ - Start on tap
+ - Move box
+ - Bug fixes
+
+Beta 0.1 (9 Jun)
+ - Export to script
+ - Export to project fixed
+ - Import selector
+ - Shape fixes
+ - Bug fixes
+
+Alpha 0.1 (9 Jun)
+ - First version
