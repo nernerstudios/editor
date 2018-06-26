@@ -8,43 +8,43 @@ Beta 0.2.1 (26 Jun) (Planned)
 Beta 0.2 (25 Jun)
  - New interface technology
  - Two menus to manage
- - New saves dir for saves
+ - New saves dir for projects
  - Test popup block editor
  - Interface animations
  - Confirmations to delete
  - Tap for block to start
  - Replaced all textures
  - Interface changes
- - Shape editor fixed
- - Model resizer (beta)
+ - Shape work fixes
+ - Model resizer
  - Cloning box
  - Bug fixes
 
 Beta 0.1.3 (11 Jun)
  - Categories for export and import
  - Confirmation if save on exit failed
- - Tap worked only on custom block
+ - Tap worked only down custom block
  - New catches for get errors
  - English translate
  - Bug fixes
 
 Beta 0.1.2 (10 Jun)
- - Interface show in menu
+ - Interface showed in menu
  - Russian translate
  - Bug fixes
 
 Beta 0.1.1 (10 Jun)
- - New format for show pixels
+ - New format for show sizes
  - Fixed undefined category
  - Import from script
- - Start on tap
+ - Start modeling on tap
  - Move box
  - Bug fixes
 
 Beta 0.1 (9 Jun)
- - Export to script
  - Export to project fixed
- - Import selector
+ - Export to script
+ - Select file to import
  - Shape fixes
  - Bug fixes
 
