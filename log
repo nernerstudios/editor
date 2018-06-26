@@ -1,3 +1,12 @@
+Beta 0.2.2 (27 Jun) (Planned)
+ - Export with select name
+ - Edit all model textures
+ - Import exported scripts
+ - Work with all blocks id
+ - Interface preferences
+ - Resizeable interface
+ - Bug fixes
+
 Beta 0.2.1 (26 Jun)
  - Block information can be edited
  - Export to project fixed
