@@ -1,3 +1,12 @@
+Beta 0.2.4 (Jul 19)
+ - Updated texture selectors
+ - Fixed import mod scripts
+ - Detailed menu for update
+ - Showing shape box
+ - Menus for rotate
+ - Export fixes
+ - Bug fixes
+
 Beta 0.2.3 (Jul 10)
  - Interface improvements
  - Improved block editor
