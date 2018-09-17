@@ -1,4 +1,14 @@
-Beta 0.2.4 (Jul 20)
+Alpha 0.2.5.1 (16 Sep)
+ - Improved interface logic
+ - Full control by shape
+ - New navigation system
+ - More options to set up
+ - Improved dialogs
+ - New popups types
+ - Updated controls
+ - Minor fixes
+
+Beta 0.2.4 (20 Jul)
  - Updated texture selectors
  - Fixed import mod scripts
  - Detailed menu for update
@@ -7,7 +17,7 @@ Beta 0.2.4 (Jul 20)
  - Export fixes
  - Bug fixes
 
-Beta 0.2.3 (Jul 10)
+Beta 0.2.3 (10 Jul)
  - Interface improvements
  - Improved block editor
  - Texture selection for sides
