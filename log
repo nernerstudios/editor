@@ -1,4 +1,4 @@
-Alpha 0.2.5.1 (16 Sep)
+Alpha 0.2.5.1 (Sep 16)
  - Improved interface logic
  - Full control by shape
  - New navigation system
@@ -8,7 +8,7 @@ Alpha 0.2.5.1 (16 Sep)
  - Updated controls
  - Minor fixes
 
-Beta 0.2.4 (20 Jul)
+Beta 0.2.4 (Jul 20)
  - Updated texture selectors
  - Fixed import mod scripts
  - Detailed menu for update
@@ -17,7 +17,7 @@ Beta 0.2.4 (20 Jul)
  - Export fixes
  - Bug fixes
 
-Beta 0.2.3 (10 Jul)
+Beta 0.2.3 (Jul 10)
  - Interface improvements
  - Improved block editor
  - Texture selection for sides
@@ -25,14 +25,14 @@ Beta 0.2.3 (10 Jul)
  - Replace all textures
  - Bug fixes
 
-Beta 0.2.2 (27 Jun)
+Beta 0.2.2 (Jun 27)
  - Export with select name
  - Export to project fixed
  - Interface preferences
  - Resizeable interface
  - Bug fixes
 
-Beta 0.2.1 (26 Jun)
+Beta 0.2.1 (Jun 26)
  - Block information can be edited
  - Export to project fixed
  - Updated some textures
@@ -41,7 +41,7 @@ Beta 0.2.1 (26 Jun)
  - Menu can be closed
  - Bug fixes
 
-Beta 0.2 (25 Jun)
+Beta 0.2 (Jun 25)
  - New interface technology
  - Two menus to manage
  - New saves dir for projects
@@ -56,7 +56,7 @@ Beta 0.2 (25 Jun)
  - Cloning box
  - Bug fixes
 
-Beta 0.1.3 (11 Jun)
+Beta 0.1.3 (Jun 11)
  - Categories for export and import
  - Confirmation if save on exit failed
  - Tap worked only down custom block
@@ -64,12 +64,12 @@ Beta 0.1.3 (11 Jun)
  - English translate
  - Bug fixes
 
-Beta 0.1.2 (10 Jun)
+Beta 0.1.2 (Jun 10)
  - Interface showed in menu
  - Russian translate
  - Bug fixes
 
-Beta 0.1.1 (10 Jun)
+Beta 0.1.1 (Jun 10)
  - New format for show sizes
  - Fixed undefined category
  - Import from script
@@ -77,12 +77,12 @@ Beta 0.1.1 (10 Jun)
  - Move box
  - Bug fixes
 
-Beta 0.1 (9 Jun)
+Beta 0.1 (Jun 9)
  - Export to project fixed
  - Export to script
  - Select file to import
  - Shape fixes
  - Bug fixes
 
-Alpha 0.1 (9 Jun)
+Alpha 0.1 (Jun 9)
  - First version
